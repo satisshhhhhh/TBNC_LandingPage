@@ -1,0 +1,66 @@
+The Boring News Co. Privacy Policy
+
+The Boring News Co. is committed to protecting the right to privacy and personal data of all users of boringnews.co ("the Website"), its surveys and newsletters sent by Email and WhatsApp ("the Newsletters"). This privacy policy ("the Policy") is entered into between Ruson Infomedia Private Limited ("the Company") with registered office at #44/17, 2nd Floor, Kamraj Road, Bangalore 560042, and you ("the User"). The Policy aims to safeguard your personally identifiable information ("Personal Information") that we collect from you to improve and tailor the content on the Website and in the Newsletters. The Policy is applied to all users of the Website, Newsletters, WhatsApp Newsletters and Surveys. Key words and terms not defined in the Policy will have their meaning as defined under the terms and conditions agreement ("the Terms"). In the event we charge any subscription or fee for Subscription Services at a future point, the Policy will automatically apply to those users that pay for such services. Therefore, you are advised to carefully read the Policy and understand the purpose of gathering and using your Personal Information. The Policy has been last updated as of 18th October 2020.
+
+1.	User Consent
+
+By accessing the Website and receiving the Newsletters and Surveys, the User consents to the collection of their Personal Information, to the sharing of their Personal Information with third parties in relation to the Website's operation, to the storage of Personal Information and transfer of Personal Information to India. In certain cases, if the User resides in a country governed by data protection regulations, the Company may ask the User to provide explicit consent to gathering Personal Data before providing access to the Website and the Newsletters.
+
+2.	Information Collected by the Company
+
+Personal Information refers to information that relates to a specific individual or natural person, which either directly or indirectly, in combination with other information available or likely to be available with a company or business, is capable of identifying such a person.
+
+The specific Personal Information collected by the Company will be outlined below.
+
+A.	Information Collected at Registration
+
+When the User registers on the Website or registers to obtain the Newsletters, the User must provide basic Personal Information that allows the Website and the Company to continue to provide services on a regular basis. The Personal Information collected includes Name, Phone Number, Email Address, Home address, IP address, Educational Qualification, Current Profession and Gender. Passwords will be retained till the Company or the User deactivate the account in compliance with the Terms (Terms and Conditions). 
+
+In the event the Company offers Subscription Services and access to premium content on the Website and the Newsletter, the Company or the payment gateway used may collect the User's Personal Information such as address or billing information, credit/debit card number (last 4 digits) and expiration date. This financial information will be retained till payment renewals are stopped. 
+The Company may request for Personal Information at other times, including but not limited to feedback from the User, changes in the User's content preferences, responses from surveys addressed to the User or other communications from the User. 
+
+B.	Information Collected During Navigation
+
+The Website, the Newsletter emails and some of the webpages will use "Cookies" and other kinds of tracking technology to collect information on each unique visitor, collecting information on the User's individual interests using an identified computer. Unless the User voluntarily identifies themselves, there is no way the Company or a third party can know who they are. Most browsers allow a visitor to the Website to control their cookies including whether cookies are accepted or cookies are removed later, and will notify the visitor if they receive a cookie. If cookies are erased or blocked, the Website may require the User to re-enter specific information to enable access to certain parts of the Website. 
+
+Tracking technologies may capture information including internet domain names, IP addresses, geographic location and computer specific details including but not limited to operating system type, CPU type, internet connection type and time of access.
+
+Both Cookies and Technologies allow the Company to improve the users experience of the Website, the Newsletters and other related services. The Company may analyse this information for trends and statistics. 
+
+3.	Use of Personal Information
+
+The Company may use Personal Information obtained from the User to provide services that the User has asked for including sending updates, contacting the User if they have requested it and in other situations. Personal Information may also be used for research, analysis, operation and improvement of services. The Company, aiming to maintain an accurate record for the provision of the above services to the User, therefore requests that the User provides the most recent Personal Information by updating or correcting any outdated or incorrect information.
+
+4.	Third Party Services 
+
+The Company may share aggregated non-personal information with third parties while operating the Website and delivering services. In certain circumstances, Personal Information used for the creation of a public profile on the Website may be captured and indexed by search engines appearing in searches conducted on them. While using third parties to provide services for operations of the Website or for processing the User's Personal Information, the Company will require that they comply with necessary confidentiality and reasonable security processes. Other rare but mandatory situations where Personal Information will be shared by the Company include when it is required by law, in compliance with a legal process or for the prevention of fraud and other harm. 
+
+5.	Other Uses of Personal Information
+
+In the event the Company seeks to use the User's Personal Information for other uses outside this Policy, the Company will notify the User first. The User will be provided with the option to withhold consent unless the said use in stated in this Policy
+
+
+
+6.	Confidentiality and Data Protection
+
+The Company will take reasonable measures to protect the User's Personal Information and keep the same confidential except when disclosure is required or allowed by law. All information gathered is stored on databases controlled by us secured behind a firewall and with access password protected. Personal Information from registration and other forms is encrypted using secure socket layer technology (SSL). While reasonable measures will be taken, no method of transmission over the internet or storage on electronic medium is one hundred percent (100%) secure. The Company endeavours to use reasonable and commercially viable methods to protect the User's Personal Information, but cannot promise absolute security. 
+
+Access to Personal Information is limited to employees, agents, consultants and other persons who the Company deems reasonably necessary to access such information in order to operate the Website and provide and improve services to Users. In relation to third parties, the Company will take reasonable measures to ensure such parties are required to protect Personal Information, for example by confidentiality agreements or obtaining assurances of their electronic security practices. The User's Personal Information may be collected, transferred and stored on servers located in India and other countries as the Company may disclose from time to time.
+
+In the event the User leaves the Website or the Newsletters or clicks on a link to a third-party website, the User will be accessing a webpage outside the Company's control. The Company cannot be held responsible for the use of Personal Information by such parties and cannot guarantee such party's adherence to the same standard of security and data protection as the Company and the Website.
+
+7.	Complaints and Queries 
+
+If the User has any complaints or queries in relation to their Personal Information, this should be conveyed to the Grievance Officer (in accordance with the Information Technology Act, 2000) to:
+
+Sajal Khanter
+sajal@boringnews.co
++91-9741479801
+
+#44/17, 2nd Floor, Kamraj Road, Bangalore 560042
+
+The Grievance Officer will endeavour to respond or provide the requested information within fourteen days (14) of receipt of the User's email.  
+
+8.	Indian Law
+
+The Policy shall be governed by the Laws of India. The Courts of law at Bengaluru shall have exclusive jurisdiction over any disputes arising under the Policy.
